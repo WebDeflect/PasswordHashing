@@ -6,7 +6,7 @@
 	WebDeflect Password Hashing Method
 	
 	Version: 1.1
-	Version Update Time: 11/08/2018 @ 02:30
+	Version Update Time: 11/08/2018 @ 02:19
 	
 	Created by: Kieran Willis
 	Description: This script is to be used for the
