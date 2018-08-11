@@ -6,7 +6,7 @@
 	WebDeflect Password Hashing Method
 	
 	Version: 1.1
-	Version Update Time: 11/08/2018 @ 02:19
+	Version Update Time: 11/08/2018 @ 02:21
 	
 	Created by: Kieran Willis
 	Description: This script is to be used for the
@@ -16,6 +16,9 @@
 	This is messy and isn't professionally done which is why
 	we no longer use this.
 	I've cleaned this up a bit and made it slightly neater.
+
+	In my personal opinion, I believe a method similar to this
+	would be classed as a very secure method for storing passwords.
 	
 	You can replace the whole PBKDF2 function with your own
 	in case you want to use something like password_hash().
